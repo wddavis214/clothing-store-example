@@ -40,8 +40,6 @@ function Directory() {
                     <CategoryItem key={category.id} category={category} />
                 ))}
             </div>
-
-
         </div>
     )
 }
